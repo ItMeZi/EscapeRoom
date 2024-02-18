@@ -21,11 +21,14 @@ h1 {
 }
 a {
     text-decoration: none;
-    color: white;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 700px;
+    color: white;
+    text-align: justify;
 }
 p {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     width: 700px;
     color: white;
+    text-align: justify;
 }
