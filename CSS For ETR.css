@@ -22,12 +22,13 @@ h1 {
 }
 a {
     text-decoration: none;
-    color: black;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 p {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     width: 700px;
-    color   
+    color: white
 }
 .images {
     background-image: url(https://content.api.news/v3/images/bin/6242e1159dd37711b1036a8f5720c300);
