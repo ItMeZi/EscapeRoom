@@ -10,6 +10,8 @@ button {
     transition: 0.35s;
     width: 600px
     height: 110px;
+    padding: 50px;
+    border-color: (0000)
 }
 button:hover {
     letter-spacing: 0.30rem;
