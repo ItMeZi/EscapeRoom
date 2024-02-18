@@ -9,9 +9,10 @@ button {
     background-color:#bd2428;
     transition: 0.35s;
     width: 600px
-    border: black;
+    border: none;
     height: 110px;
     padding: 5px;
+    margin: 10px;
 }
 button:hover {
     letter-spacing: 0.30rem;
