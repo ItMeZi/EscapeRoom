@@ -16,7 +16,6 @@ button:hover {
     letter-spacing: 0.30rem;
     background-color:darkturquoise;
     width: 600px;
-    text-transform: capitalize;
 }
 h1 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
