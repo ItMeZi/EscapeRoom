@@ -9,9 +9,9 @@ button {
     background-color:#bd2428;
     transition: 0.35s;
     width: 600px
-    border: none;
+    border-color: none;
     height: 110px;
-    padding: 5px;
+    padding: 50px;
     margin: 10px;
 }
 button:hover {
