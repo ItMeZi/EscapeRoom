@@ -6,7 +6,7 @@ button {
     letter-spacing: 0.15rem;
     text-transform: uppercase;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color:cadetblue;
+    background-color:#bd2428;
     transition: 0.35s;
     width: 600px;
     border: black;
@@ -14,7 +14,7 @@ button {
 }
 button:hover {
     letter-spacing: 0.30rem;
-    background-color:darkturquoise;
+    background-color: #ea3136;
     width: 600px;
 }
 h1 {
