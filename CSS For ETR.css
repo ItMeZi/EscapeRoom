@@ -1,0 +1,36 @@
+button {
+    border-radius: 1rem;
+    color: black;
+    height: 50px;
+    font-size: 25px;
+    letter-spacing: 0.15rem;
+    text-transform: uppercase;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color:cadetblue;
+    transition: 0.35s;
+    width: 600px;
+    border: black;
+    height: 110px;
+}
+button:hover {
+    letter-spacing: 0.30rem;
+    background-color:darkturquoise;
+    width: auto;
+}
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 700px;
+    color   
+}
+.images {
+    background-image: url(https://content.api.news/v3/images/bin/6242e1159dd37711b1036a8f5720c300);
+    width: 300px;
+    background-repeat: no-repeat;
+}
