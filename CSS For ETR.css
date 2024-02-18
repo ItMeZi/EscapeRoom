@@ -9,14 +9,13 @@ button {
     background-color:#bd2428;
     transition: 0.35s;
     width: 600px
-    height: 110px;
+    height: 300px;
     padding: 50px;
     border-color: (0000)
 }
 button:hover {
     letter-spacing: 0.30rem;
     background-color: #ea3136;
-    width: 600px;
 }
 h1 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
