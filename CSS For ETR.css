@@ -8,13 +8,15 @@ button {
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color:#bd2428;
     transition: 0.35s;
+    width: 600px
     border: black;
     height: 110px;
-    padding: 10px;
+    padding: 5px;
 }
 button:hover {
     letter-spacing: 0.30rem;
     background-color: #ea3136;
+    width: auto;
 }
 h1 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
